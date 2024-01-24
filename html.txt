@@ -1,0 +1,31 @@
+<!--<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>HTML</title>
+  <!-- Custom Styles -->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+ <header>
+  <nav>
+   <ul>
+    <li>
+     <!--<img id="navimg1" src="/assets /Midnapore_College.png" alt="Logo" />
+    </li>
+    <li>
+     <img id="navimg3" src="/assets /college-banner.png" alt="">
+    </li>
+    <li>
+     <img id="navimg2" src="/assets /ham.png" alt="hamburger menu" />
+    </li>
+   </ul>
+  </nav>
+ </header>
+  <script src="main.js"></script>
+</body>
+</html>-->

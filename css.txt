@@ -1,0 +1,39 @@
+/**{
+ margin: 0;
+ padding: 0;
+}
+body {
+    font-size: 15pt;
+}
+header nav{
+ background-color: #000000;
+ height: 70px;
+ justify-content: center;
+ position: sticky;
+}
+header nav ul {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+}
+header nav ul li{
+ display: flex;
+ list-style: none;
+ align-items: center;
+}
+header nav ul li #navimg1{
+ height: 50px;
+ width: 50px;
+ margin-top: 10px;
+  margin-left:20px;
+
+}
+header nav ul li #navimg2{
+ height: 36px;
+ width: 36px;
+ margin-right:20px;
+}
+header nav ul li #navimg3{
+height: 60px;
+
+}*/
